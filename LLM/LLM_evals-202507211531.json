@@ -1,0 +1,22 @@
+[
+    {
+        "value": "[[7]]",
+        "score": 7,
+        "reasoning": "Correctness: 3  \nInteresting: 4"
+    },
+    {
+        "value": "[[7]]",
+        "score": 7,
+        "reasoning": "Correctness: 3  \nInteresting: 4"
+    },
+    {
+        "value": "[[7]]",
+        "score": 7,
+        "reasoning": "Correctness: 4  \nInteresting: 3"
+    },
+    {
+        "value": "[[6]]",
+        "score": 6,
+        "reasoning": "Correctness: 3  \nInteresting: 3"
+    }
+]

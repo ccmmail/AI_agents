@@ -1,0 +1,11 @@
+.env
+.idea/
+misc.xml
+modules.xml
+profiles_settings.xml
+Project_Default.xml
+scratch.iml
+vcs.xml
+workspace.xml
+
+
